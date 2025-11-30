@@ -28,10 +28,6 @@ Reproduzir o componente de cartão de perfil seguindo o design original, garanti
 
 ## 🖼️ Captura de Tela
 
-![Screenshot do projeto-descktop] ()
-  
-Exemplo:  
-```md
 ![Screenshot do projeto-descktop](./src/images/tela-descktop.png)
 
 ![Screenshot do projeto-mobile](./src/images/tela-mobile.png)
