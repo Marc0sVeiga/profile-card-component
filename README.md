@@ -33,8 +33,8 @@ Reproduzir o componente de cartão de perfil seguindo o design original, garanti
 
 Site Ao Vivo: https://marc0sveiga.github.io/profile-card-component/
 
-## meu-processo
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
+
 HTML5 semântico
 
 CSS3
