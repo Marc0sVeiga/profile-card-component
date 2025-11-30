@@ -32,7 +32,7 @@ Reproduzir o componente de cartão de perfil seguindo o design original, garanti
 
 ![Screenshot do projeto-mobile](./src/images/tela-mobile.png)
 
-Site Ao Vivo: (adicione aqui)
+Site Ao Vivo: https://marc0sveiga.github.io/profile-card-component/
 
 🛠️ Meu Processo
 Tecnologias Utilizadas
