@@ -32,9 +32,9 @@ Reproduzir o componente de cartão de perfil seguindo o design original, garanti
   
 Exemplo:  
 ```md
-![Screenshot do projeto](./screenshot.jpg)
-🔗 Links
-Solução: (adicione aqui)
+![Screenshot do projeto-descktop](./src/images/tela-descktop.png)
+
+![Screenshot do projeto-mobile](./src/images/tela-mobile.png)
 
 Site Ao Vivo: (adicione aqui)
 
@@ -48,14 +48,10 @@ Variáveis CSS
 
 Flexbox
 
-CSS Grid
-
-Mobile-first
-
 📚 O que Aprendi
 Durante o desenvolvimento, aprimorei:
 
-A organização de layouts utilizando Grid e Flexbox
+A organização de layouts utilizando Flexbox
 
 Uso de variáveis CSS para manter um estilo padronizado
 
@@ -63,7 +59,8 @@ Criação de componentes simples e responsivos
 
 Estruturação semântica de elementos HTML
 
-Exemplos de Código
+Exemplo:
+
 html
 Copiar código
 <section class="profile-card">
@@ -81,8 +78,9 @@ Copiar código
   display: grid;
   gap: 1rem;
 }
+
 🚀 Próximos Passos
-Quero evoluir ainda mais nos seguintes pontos:
+Evoluir ainda mais nos seguintes pontos:
 
 Criar componentes mais modulares
 
@@ -100,24 +98,15 @@ CSS Tricks: https://css-tricks.com
 Frontend Mentor Community: inspiração e benchmarking
 
 👤 Autor
-Portfólio: (adicione aqui)
+Portfólio: Marcos Veiga
 
-Frontend Mentor: @seuusuario
+Frontend Mentor: @Marc0sVeiga
 
-GitHub: @seuusuario
+GitHub: @Marc0sVeiga
 
-LinkedIn: (adicione aqui)
+LinkedIn: www.linkedin.com/in/mari0-marc0s
 
 🙌 Agradecimentos
 Agradeço à comunidade do Frontend Mentor por compartilhar soluções e ideias que me inspiram a evoluir continuamente.
 
-html
-Copiar código
-
----
-
-Se quiser, posso **preencher os links**, **customizar com seu nome**, **inserir a screenshot**, ou **adaptar o estilo** para algo mais profissional, minimalista ou casual. Só pedir!
-
-
-
-
+Ao chat-Gpt e Claude Ia e aos Mentores do curso DevQuest 2.0.
