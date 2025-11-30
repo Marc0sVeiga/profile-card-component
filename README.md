@@ -35,6 +35,7 @@ Reproduzir o componente de cartão de perfil seguindo o design original, garanti
 Site Ao Vivo: (adicione aqui)
 
 🛠️ Meu Processo
+
 Tecnologias Utilizadas
 HTML5 semântico
 
@@ -45,6 +46,7 @@ Variáveis CSS
 Flexbox
 
 📚 O que Aprendi
+
 Durante o desenvolvimento, aprimorei:
 
 A organização de layouts utilizando Flexbox
@@ -55,17 +57,16 @@ Criação de componentes simples e responsivos
 
 Estruturação semântica de elementos HTML
 
-Exemplo:
+Exemplo de código:
 
 html
-Copiar código
-<section class="profile-card">
+(<section class="profile-card">
   <img class="profile-card__avatar" src="images/avatar.png" alt="Foto do usuário">
   <h1>Victor Crest <span>26</span></h1>
   <p>London</p>
 </section>
 css
-Copiar código
+
 .profile-card {
   background: var(--card-bg);
   border-radius: 15px;
@@ -73,7 +74,7 @@ Copiar código
   text-align: center;
   display: grid;
   gap: 1rem;
-}
+})
 
 🚀 Próximos Passos
 Evoluir ainda mais nos seguintes pontos:
